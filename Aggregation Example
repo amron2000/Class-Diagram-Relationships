@@ -1,0 +1,9 @@
+public class Team {
+   //players can be 0 or more 
+   private list players;
+   public Team() {
+      players = new ArrayList();
+   }
+}
+//Player Object
+class Player{}
